@@ -1,5 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?user=pavivin&repo=pavivin&countColor=%23263759)
-![t.me/pavivin](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Visitors](https://img.shields.io/github/followers/pavivin?style=social)
 
 - 👯 I’m looking to collaborate on ![Automigrate SQL tool](https://pavivin/sql-migrate)
 - 📫 How to reach me: ![Telegram](t.me/pavivin)
