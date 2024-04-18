@@ -11,7 +11,7 @@
 
 # Project Portfolio
 
-## Personal Projects
+## Projects
 
 | Name | Description | Stack | Link |
 |------|--------------|-------|------|
@@ -26,16 +26,16 @@
 | Museum app | A virtual museum tour app | [Technical Management] | [Link](https://play.google.com/store/apps/details?id=com.structura.tavrida_flutter&hl=en_SG) |
 | Educational app | An educational app for internal use | [Technical Management] | (Internal Use) |
 
-## Outsourced Projects
+## NDA Projects
 
 | Name | Description | Stack | Status |
 |------|--------------|-------|--------|
-| Marketplace (Microservices) | Marketplace, that parse info from various sites | AioHTTP, Redis, RabbitMQ | (NDA) |
-| Task tracker | Pre-sale task tracker | Django, PostgreSQL, Celery, Redis | (NDA) |
-| Promo sites | Various promotional websites | FastAPI, Django, PostgreSQL | (NDA) |
-| Voice Assistant | A voice-based virtual assistant | Aiogram | (NDA) |
-| Admission helper bot | A chatbot for university admissions | VKBottle, Asyncio, Aiogram, PostgreSQL | [Not Active] |
-| Delivery app | A food delivery app | FastAPI, PostgreSQL, Redis | (Not Active) |
+| Marketplace (Microservices) | Marketplace, that parse info from various sites | AioHTTP, Redis, RabbitMQ |
+| Task tracker | Pre-sale task tracker | Django, PostgreSQL, Celery, Redis |
+| Promo sites | Various promotional websites | FastAPI, Django, PostgreSQL |
+| Voice Assistant | A voice-based virtual assistant | Aiogram |
+| Admission helper bot | A chatbot for university admissions | VKBottle, Asyncio, Aiogram, PostgreSQL |
+| Delivery app | A food delivery app | FastAPI, PostgreSQL, Redis |
 
 ## Hackathons
 
