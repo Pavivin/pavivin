@@ -1,5 +1,5 @@
 ### Hello there 🔭
-### An experienced backend developer. Have experience with various projects. *Open to contribute projects*. If you have some, feel free to DM me
+### Experienced backend artisan, skilled in diverse project realms. Driven to lend expertise to meaningful initiatives. If you have a project that could utilize my abilities, please DM me.
 
 ![Visitors](https://img.shields.io/github/followers/pavivin?style=social)
 
@@ -15,6 +15,7 @@
 
 | Name | Description | Stack | Link |
 |------|--------------|-------|------|
+| NFT showcase utilities | Place where you can store all your achievements | Django, PostgreSQL, Redis, Celery, Web3, NFT, IPFS | [Link](https://boasty.io) |
 | Mobile Market Analytics Website | Site for mobile market (Google Play, App Store) analytics | Django, MySQL, Clickhouse, ElasticSearch | [Link](https://appstorespy.com) |
 |   - Public API | API for integration with site's data | FastAPI, MySQL | [Link](https://api.appstorespy.com/docs#/) |
 |   - Chat GPT integration | A demo app showcasing ChatGPT integration with site's data | Langchain, OpenAI | [Limited Use] |
