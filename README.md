@@ -29,8 +29,8 @@
 
 ## NDA Projects
 
-| Name | Description | Stack | Status |
-|------|--------------|-------|--------|
+| Name | Description | Stack |
+|------|--------------|-------|
 | Marketplace (Microservices) | Marketplace, that parse info from various sites | AioHTTP, Redis, RabbitMQ |
 | Task tracker | Pre-sale task tracker | Django, PostgreSQL, Celery, Redis |
 | Promo sites | Various promotional websites | FastAPI, Django, PostgreSQL |
