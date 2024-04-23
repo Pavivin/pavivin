@@ -15,14 +15,14 @@
 
 | Name | Description | Stack | Link |
 |------|--------------|-------|------|
-| NFT showcase utilities | Place where you can store all your achievements | Django, PostgreSQL, Redis, Celery, Web3, NFT, IPFS | [Link](https://boasty.io) |
+| NFT showcase utilities | Place where you can store all your achievements | Django, PostgreSQL, Redis, Celery, Web3, NFT, IPFS, OAuth2| [Link](https://boasty.io) |
 | Mobile Market Analytics Website | Site for mobile market (Google Play, App Store) analytics | Django, MySQL, Clickhouse, ElasticSearch | [Link](https://appstorespy.com) |
 |   - Public API | API for integration with site's data | FastAPI, MySQL | [Link](https://api.appstorespy.com/docs#/) |
 |   - Chat GPT integration | A demo app showcasing ChatGPT integration with site's data | Langchain, OpenAI | [Limited Use] |
 | Bank service | Internal Use System | FastAPI, PostgreSQL | [Link](https://expobank.ru/) |
 |   - AML System for bank | An internal anti-money laundering system | Flask, PostgreSQL, MongoDB, RabbitMQ | (Internal Use) |
 |   - Scoring system for bank | An internal credit scoring system | FastAPI, PostgreSQL, Redis, Celery | (Internal Use) |
-| Networking app | An app for sharing digital business cards | Blacksheep, PostgreSQL, Redis, Celery, 0Auth | [Link](https://apps.apple.com/ru/app/smiradd/id6471594761?platform=iphone) |
+| Networking app | An app for sharing digital business cards | Blacksheep, PostgreSQL, Redis, Celery, OAuth2 | [Link](https://apps.apple.com/ru/app/smiradd/id6471594761?platform=iphone) |
 | Social initiatives app | An app for social initiatives | FastAPI, PostgreSQL, MongoDB, Redis, Celery | [Limited Use] |
 | Museum app | A virtual museum tour app | [Technical Management] | [Link](https://play.google.com/store/apps/details?id=com.structura.tavrida_flutter&hl=en_SG) |
 | Educational app | An educational app for internal use | [Technical Management] | (Internal Use) |
